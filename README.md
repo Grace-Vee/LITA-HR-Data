@@ -15,12 +15,18 @@ Data used for this project was an excel data provided by the facilitators.
 ## Data Description
 ---
 The dataset includes the following fields:
-1. Attrition: The Column tells us if the employees are still in the organization or not
-2. Age Band: This shows the age groups of all the employees in the organization
-3. Department : Department pf Employees
-4. Gender: Gender of employees
-5. Education Field:  
-Product Category: C
+    1. Attrition: The Column tells us if the employees are still in the organization or not
+    2. Age Band: This shows the age groups of all the employees in the organization
+    3. Department : Department pf Employees
+    4. Gender: Gender of employees
+    5. Education Field: Educational field of employees
+    6. Job Role: Employee"s Job roles
+    7. Marital Status: Marital Status of staff\
+    8. Employee Counts: Total Employee Counts
+    9. Job Level: Job Level
+    10. Attrition Counts: Cunts of thpse leaving the Organization
+    11. Attrition rates: rates at which they are leaving
+    12. Work Life Balance: 
 
 ### Tools used
 ---
@@ -40,11 +46,18 @@ Product Category: C
 ### Data Cleaning and preparation
 ---
 During the initial phase of the data entry, the folowing actions were performed
-     1. Data import from Excel
-     2. Data Transformation
-     3. Data Cleaning and Structuring
-     4. Data Formatting
-
+     1.  Data quality was ensured by correcting any spelling errors, removing duplicate entries, and addressing 
+         missing values.
+     2.  Standardization: Used find and replace to standardize certain fields
+     3.  Data import from Excel
+     
+### Data Transformation:
+---
+Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
+     1. Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to 
+        date format.
+     2. Created New Columns: Added a new column to categorize transaction using conditional column formatting, IF function and custom column
+.
 ### Data Analysis
 ---
 Some of the code used to analysed the data are:
