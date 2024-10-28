@@ -6,14 +6,21 @@
 
 ### Project Overview
 ---
-This project was part of the training conducted during the LITA Data Analysis class. The goal of the project was to get hands-on training experience on real life data entry, data 
-import from excel, data transformation, data modelling, basic calculatuons and data visualization in Power Bi using scenariors that needs large volume of data to be inputed, cleaned, categorized and analyzed. The project 
-aimed at strenthening core skills such as Technical skills, Data visualization, Critical Thinking, Data Transformation, data cleaning, data Validation, and data structuring,
-needed to be an excellent data Analyst. The project was also aimed at teaching us how to use power Bi for data visualization.  
+This project, which was part of the training conducted during the LITA Data Analysis class, presents the attrition rates of employee in an organization, The goal of the project was to address the issues of employee's attritons from the organization. Despite the organization"s activities of training, providing for and maintaining their staff, employees keep leaving the organization to other places. The analysis includes deriving various objectives, to understand better the underlying issues and to propose actionable recommendations that would reduce employee attritions from the organization.
 
 ### Data Sources
 ---
 Data used for this project was an excel data provided by the facilitators.
+
+## Data Description
+---
+The dataset includes the following fields:
+1. Attrition: The Column tells us if the employees are still in the organization or not
+2. Age Band: This shows the age groups of all the employees in the organization
+3. Department : Department pf Employees
+4. Gender: Gender of employees
+5. Education Field:  
+Product Category: C
 
 ### Tools used
 ---
