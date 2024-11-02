@@ -95,7 +95,7 @@ Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisf
 
 ### Data Visualization
 ---
-![HR visual](https://github.com/user-attachments/assets/56df56c3-2cb4-4086-b3b4-354ba93a4502)
+![HR visual](https://github.com/user-attachments/assets/1c7ccfcb-14ce-47ac-bdd2-5769490c1e59)
 
 ![HR 2](https://github.com/user-attachments/assets/6ae7ef91-1a42-4711-acb4-7273c9db4fbd)
 
