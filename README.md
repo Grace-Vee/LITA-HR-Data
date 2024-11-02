@@ -3,7 +3,7 @@
 ## Project Title: LITA Human Resource Data
 
 ## Outline
-[Project Overview](#project-overview
+[Project Overview](#project-overview)
 
 [Data Sources](#Data-sources)
 
