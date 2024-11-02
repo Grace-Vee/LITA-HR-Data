@@ -3,6 +3,27 @@
 ## Project Title: LITA Human Resource Data
 
 ## Outline
+[Project Overview](#project-overview
+
+[Data Sources](#Data-sources)
+
+[Data Description](#data-description)
+
+[Tools used](#tools-used)
+
+[Data Cleaning and preparation](#data-cleaning-and-preparation) 
+
+[Data Transformation](#data-transformation)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Table](#table)
+
+[Insights](#insights)
+
+[Recommendations](#recommendations)
 
 ### Project Overview
 ---
@@ -113,3 +134,4 @@ The followings were recommended based on findings from the Data Annalysis, which
 4. All departments should be treated fairly
  
  ### Thank You
+---
