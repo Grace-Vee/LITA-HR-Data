@@ -74,9 +74,10 @@ Data used for this project was an excel data provided by the facilitators.
 ### Data Transformation:
 ---
 - Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
-     1. Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date
-        fields set to date format.      
-     3. Created New Columns: Added a new column to categorize transaction using conditional column formatting, IF function and custom column
+     1. Data Types and Formatting: This was done to ensure all data fields were assigned the correct data types, with numerical fields formatted as whole numbers, text as text
+        and date fields set to date format. 
+     2. Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
+     3. Created New Columns: Added a new column to have more calculations like Revenue   
 
 ### Data Analysis
 ---
@@ -125,7 +126,7 @@ Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisf
 
 ### Recommendations
 ---
-The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
+The followings were recommended based on findings from the Data Analysis, which enabled us took informed decisions such as:
    1. Policies should be ammended: The Organization should amend their policies to favour all age groups and gender. The Executives should work on providing extracurricular activities 
       like fitness coach or even work in line with a fitness centre where their staff could enrol at a cheap rate for weekly fitness training, which would encourage more younger age 
       groups to be satisfied and have great work like balance. All genders and age groups should be consider when allocating benefits or incentives
