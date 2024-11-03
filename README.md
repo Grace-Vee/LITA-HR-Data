@@ -36,17 +36,29 @@ Data used for this project was an excel data provided by the facilitators.
 ## Data Description
 ---
 The dataset includes the following fields:
+
     1. Attrition: The Column tells us if the employees are still in the organization or not
+    
     2. Age Band: This shows the age groups of all the employees in the organization
+    
     3. Department : Department pf Employees
+    
     4. Gender: Gender of employees
+    
     5. Education Field: Educational field of employees
+    
     6. Job Role: Employee"s Job roles
+    
     7. Marital Status: Marital Status of staff
+    
     8. Employee Counts: Total Employee Counts
+    
     9. Job Level: Job Level
+
     10. Attrition Counts: Cunts of thpse leaving the Organization
+    
     11. Attrition rates: rates at which they are leaving
+    
     12. Work Life Balance: 
 
 ### Tools used
