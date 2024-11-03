@@ -78,8 +78,9 @@ During the initial phase of the data entry, the folowing actions were performed
 Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
      1. Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to 
         date format.
+        
      2. Created New Columns: Added a new column to categorize transaction using conditional column formatting, IF function and custom column
-.
+
 ### Data Analysis
 ---
 Some of the code used to analysed the data are:
