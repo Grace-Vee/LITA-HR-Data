@@ -68,7 +68,9 @@ The dataset includes the following fields:
 During the initial phase of the data entry, the folowing actions were performed
      1.  Data quality was ensured by correcting any spelling errors, removing duplicate entries, and addressing 
          missing values.
+         
      2.  Standardization: Used find and replace to standardize certain fields
+     
      3.  Data import from Excel
      
 ### Data Transformation:
