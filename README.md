@@ -60,7 +60,6 @@ The dataset includes the following fields:
      1. For Data Transformation
      2. Data modelling
      3. To Create reports and dashboards that are collections of visuals.
-     4. To Create maps, charts and graphs.
 -  GitHub [Download Here](https://www.github.com)
      1. For Portfolio Building
   
