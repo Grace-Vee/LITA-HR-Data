@@ -73,7 +73,7 @@ Data used for this project was an excel data provided by the facilitators.
      
 ### Data Transformation:
 ---
-Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
+- Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
      1. Data Types and Formatting: Ensured all data fields were assigned the correct data types, with numerical fields formatted as currencies where appropriate, and date fields set to 
         date format.      
      2. Created New Columns: Added a new column to categorize transaction using conditional column formatting, IF function and custom column
@@ -104,7 +104,7 @@ Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisf
 ### Insights
 ---
 - The visual showed that:
-      1. Average age of Staff in the company is 37 years, which shows that the organization have more younger staff than the elderly ones
+      1. Average age of Staff in the company is 37 years, which shows that the organization have more younger staff than the elderly ones.
       2. A total of 237 employees, which is 16% of the total employees, left the company over time. This shows that the organization lost 16% of their staff, in which resources like 
          time and money were spent training. For such an amount of employee to leave the organization showed that they were greately disastisfied with the organization's policies of 
          handling their staff. This explanation goes in line with the visuals, which showed that out of the 237 employee attrition count, a total of 66 employees were very desatisfied 
@@ -120,7 +120,7 @@ Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisf
 
 ### Recommendations
 ---
-The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
+-The followings were recommended based on findings from the Data Annalysis, which enabled us took informed decisions such as:
      1. Policies should be ammended: The Organization should amend their policies to favour all age groups and gender. The Executives should work on providing extracurricular activities 
         like fitness coach or even work in line with a fitness centre where their staff could enrol at a cheap rate for weekly fitness training, which would encourage more younger age 
         groups to be satisfied and have great work like balance. All genders and age groups should be consider when allocating benefits or incentives
