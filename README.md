@@ -104,22 +104,18 @@ Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisf
 ### Insights
 ---
 The visual showed that:
+
     1. Average age of Staff in the company is 37 years, which shows that the organization have more younger staff than the elderly ones.
-    
     2. A total of 237 employees, which is 16% of the total employees, left the company over time. This shows that the organization lost 16% of their staff, in which resources like 
        time and money were spent training. For such an amount of employee to leave the organization showed that they were greately disastisfied with the organization's policies of 
        handling their staff. This explanation goes in line with the visuals, which showed that out of the 237 employee attrition count, a total of 66 employees were very desatisfied 
-       with their jobs and 46 employees were desatisfied wit their jobs. This could be the reason why they left the organization
-       
+       with their jobs and 46 employees were desatisfied wit their jobs. This could be the reason why they left the organization   
     3. Attrition count by gender showed that a total of 150 male and 87 female left the organization during the period, probably because the organization's policies favousr the 
-       females than the males.
-       
+       females than the males.       
     4. Attrition based on Department showed that the attrition rate was highest in Life Science department, which had a total of 89 staff that left the company, followed by the 
-       Medical department with a total of 63 attrition counts. Human resource had the lowest attrition rate, with a count of 7 employee who left the organization.
-       
+       Medical department with a total of 63 attrition counts. Human resource had the lowest attrition rate, with a count of 7 employee who left the organization.       
     6. Laboratory Technicians had the higest counts of very desatisfaction rates, probably the reason why the Life science and medical field had the hihest attrition rate compared to 
-       other department.
-       
+       other department.      
     7. Attrition based on age groups showed that age group 25-34 had the highest attrition count, which showed that the younger people were more desatisfied with the organizational 
        policies
 
