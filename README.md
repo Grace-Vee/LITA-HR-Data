@@ -42,7 +42,7 @@ The dataset includes the following fields:
     4. Gender: Gender of employees
     5. Education Field: Educational field of employees
     6. Job Role: Employee"s Job roles
-    7. Marital Status: Marital Status of staff\
+    7. Marital Status: Marital Status of staff
     8. Employee Counts: Total Employee Counts
     9. Job Level: Job Level
     10. Attrition Counts: Cunts of thpse leaving the Organization
@@ -92,7 +92,6 @@ LEFT(text,[num_char])
 Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
 Average Age = AVERAGE('HR data'[Age])
 Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisfaction rating", type text}})
-
 ```
 
 ### Data Visualization
